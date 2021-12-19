@@ -1,0 +1,8 @@
+.text-home{
+  background-image: linear-gradient(
+    -225deg,
+    #e43232 0%,
+    #f23918 48%,
+    #0127ff 100%
+  );
+}
